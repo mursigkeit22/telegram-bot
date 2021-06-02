@@ -75,7 +75,7 @@ tornado==6.0.1
 traitlets==4.3.2
 typing==3.6.1
 Unidecode==1.0.23
-urllib3==1.24.1
+urllib3==1.26.5
 wcwidth==0.1.7
 webencodings==0.5.1
 wikipedia==1.4.0
